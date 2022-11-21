@@ -1,0 +1,64 @@
+{
+    "Orders": [
+        {
+            "orderNo": 524209,
+            "orderDetails": [
+                {
+                    "Brand": "GoodHome",
+                    "Colour": "White",
+                    "Price": 12.0,
+                    "sBucket": 2,
+                    "mBucket": 0,
+                    "lBucket": 0,
+                    "xlBucket": 0,
+                    "orderTime": "2022-11-21 10:18:36.845192"
+                }
+            ]
+        },
+        {
+            "orderNo": 568213,
+            "orderDetails": [
+                {
+                    "Brand": "Dulux",
+                    "Colour": "White",
+                    "Price": "13.00",
+                    "sBucket": 3,
+                    "mBucket": 1,
+                    "lBucket": 1,
+                    "xlBucket": 1,
+                    "orderTime": "2022-11-21 10:20:08.541387"
+                }
+            ]
+        },
+        {
+            "orderNo": 882517,
+            "orderDetails": [
+                {
+                    "Brand": "Leyland",
+                    "Colour": "Blue",
+                    "Price": 20.8,
+                    "sBucket": 1,
+                    "mBucket": 0,
+                    "lBucket": 1,
+                    "xlBucket": 1,
+                    "orderTime": "2022-11-21 10:27:38.743269"
+                }
+            ]
+        },
+        {
+            "orderNo": 280710,
+            "orderDetails": [
+                {
+                    "Brand": "GoodHome",
+                    "Colour": "Blue",
+                    "Price": 42.0,
+                    "sBucket": 2,
+                    "mBucket": 0,
+                    "lBucket": 1,
+                    "xlBucket": 0,
+                    "orderTime": "2022-11-21 10:28:09.044147"
+                }
+            ]
+        }
+    ]
+}
